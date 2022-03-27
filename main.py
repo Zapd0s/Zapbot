@@ -9,7 +9,7 @@ import datetime
 import asyncpraw
 import time
 
-
+"OTU3NTU0MDA3MDUwNjk4Nzky.YkAdqQ.uSHRBRXTS9w-1tVogLJE2AMLSkw"
 
 client = commands.Bot(command_prefix = ">", intents = discord.Intents.all(), activity = discord.Activity(type=discord.ActivityType.listening, name= " >help"))
 client.remove_command('help')
